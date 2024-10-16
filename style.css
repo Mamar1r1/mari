@@ -1,0 +1,27 @@
+body {
+    color: black;
+    background: rgba(190, 52, 17, 0.874);
+    margin: 0;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+
+
+}
+
+section {
+    background: rgb(231, 163, 3);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    margin-right: 5%;
+
+}
